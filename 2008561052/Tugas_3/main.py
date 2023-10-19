@@ -72,7 +72,7 @@ def decodeData(image):
     return data
 
 def encodeImage():
-    image_name = input("Enter image name(with extension): ")
+    image_name = input("Masukan nama citra dengan ekstensi (misal test.bmp): ")
     image = cv2.imread(image_name)
 
     data = input("Masukan text : ")
@@ -86,7 +86,7 @@ def encodeImage():
 
 
 def decodeImage():
-    image_name = input("Enter image name(with extension): ")
+    image_name = input("Masukan nama citra dengan ekstensi (misal test.bmp): ")
     image = cv2.imread(image_name)
 
     text = decodeData(image)
@@ -102,7 +102,7 @@ def main():
         encodeImage()
 
     elif (inMenu == 2):
-        print("Pesan Rahasianya Adalah :  " + decodeImage())
+        print("Pesan yang tersisipkan adalah :  " + decodeImage())
 
     elif(inMenu == 3):
         isContinue = 0
