@@ -1,6 +1,6 @@
 Tugas 2 - Steganografi
-Nama    : I Made Arthya Andika Putra
-NIM     : 2008561052
+
+I Made Arthya Andika Putra - 2008561052
 
 Deskripsi Tugas
 - Buat Program Untuk Membaca Nilai RGB dari Pixel di titik tertentu pada sebuah citra dan menuliskan nilai RGB tertentu ke sebuah titik pada sebuah citra cover image
