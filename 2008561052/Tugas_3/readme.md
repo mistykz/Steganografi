@@ -1,4 +1,4 @@
-Tugas  - Steganografi
+Tugas 3 - Steganografi
 
 I Made Arthya Andika Putra - 2008561052
 
